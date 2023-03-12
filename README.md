@@ -1,7 +1,6 @@
 # PKP_Cargo
 
-Strona z przydatnymi informacjami na temat budowy pociagów
-https://www.transportszynowy.pl/
+Strona z przydatnymi informacjami na temat budowy pociagów : https://www.transportszynowy.pl/
 
 Elektronika :
 

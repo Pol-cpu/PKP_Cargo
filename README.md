@@ -8,4 +8,5 @@ Elektronika :
 https://elektrykapradnietyka.com/abc-elektryka/
 
 https://forbot.pl/blog/kurs-elektroniki-dla-poczatkujacych-id5151
+
 https://forbot.pl/blog/kurs-elektroniki-ii-spis-tresci-praktyczne-projekty-id10746
